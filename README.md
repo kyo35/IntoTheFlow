@@ -356,7 +356,7 @@ Potential solutions:
 ---
 
 # Authors
-Mahin Atturu (Virginia Tech ECE Capstone Project Team S26-41)
+Mahin Atturu (Virginia Tech ECE Capstone Project Team Lead S26-41)
 
 Developed using:
 - OpenBCI
